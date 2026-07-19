@@ -53,7 +53,30 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 
 
-Tech Stack
+## 💻 Tech Stack
+
+### Programming Languages
+- TypeScript
+- JavaScript
+- C
+- Python
+- SQL
+
+### Mobile Development
+- React Native
+- Expo
+
+### Backend
+- Supabase
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+### Currently Learning
+- Verilog HDL
+- Go
 
 Projects
 
