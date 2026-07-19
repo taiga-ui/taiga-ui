@@ -1,16 +1,35 @@
-## Hi there 👋
+# 北川 大雅
 
-<!--
-**taiga-ui/taiga-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**立命館大学 理工学部 電子情報工学科 2回生**
 
-Here are some ideas to get you started:
+React Native・TypeScriptを中心にモバイルアプリ開発を学んでいます。
+アプリ開発サークルでのチーム開発と個人開発の両方に取り組みながら、GitHubを活用した開発や設計・READMEの作成も含めて日々学習を続けています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+こんにちは、北川大雅です。
+
+立命館大学理工学部電子情報工学科でソフトウェアとハードウェアの両方を学びながら、アプリ開発サークルでモバイルアプリ開発に取り組んでいます。
+
+現在はReact Native・TypeScriptを中心に、チーム開発ではメンバーと協力したアプリ開発、個人開発ではアイデアの企画から設計・実装まで一貫して経験しています。
+
+このGitHubでは、開発したアプリや学習の記録を公開しています。技術だけでなく、開発の背景や工夫した点、学んだこともREADMEにまとめ、継続的に改善しながらポートフォリオとして育てていく予定です。
+
+
+Current Focus
+
+Timeline
+
+Tech Stack
+
+Projects
+
+Learning
+
+Certifications
+
+GitHub Stats
+
+Contact
