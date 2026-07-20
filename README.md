@@ -89,71 +89,37 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 ### 📖 stepin
 
-#### 📝 概要
+> **「絶対に継続できる日記アプリ」** をコンセプトに、アプリ開発サークルの新入生プロジェクトとして3人で開発したモバイルアプリです。
 
-**「絶対に継続できる日記アプリ」** をコンセプトに開発したモバイルアプリです。ユーザーが日記を継続しやすくなるよう、ストリーク機能や話題提案機能、リマインダー機能などを備えています。
+| 項目 | 内容 |
+|------|------|
+| **開発形態** | チーム開発（3名） |
+| **開発期間** | 約4か月 |
+| **使用技術** | React Native / TypeScript / Expo / Git / GitHub |
+| **担当** | ストリーク機能・設定画面・ウォークスルー画面・リマインダー機能（一部） |
 
-#### 👥 開発形態
+#### 💡 このプロジェクトで学んだこと
 
-- チーム開発（3名）
-- 開発期間：約4か月
+- 初めてのモバイルアプリ開発・チーム開発を経験
+- React Native・TypeScriptを用いた実践的な開発
+- Git・GitHubを用いたチーム開発フロー
+- ユーザー目線でUI・UXを考える重要性
 
-#### 👨‍💻 担当
+#### 🔗 Links
 
-主に以下の機能の設計・実装を担当しました。
+- **Repository**  
+  https://github.com/arukuArupaka/unique_diary
 
-- 🔥 連続記録（Streak）機能
-- ⚙️ 設定画面
-- 🚀 ウォークスルー画面
-- 🔔 リマインダー機能の初期実装（一部）
-
-#### 🛠️ 使用技術
-
-- React Native
-- TypeScript
-- Expo
-- Git / GitHub
-
-#### ✨ プロジェクトの工夫
-
-日記を継続しやすくするため、以下のような工夫が取り入れられています。
-
-- 💡 毎日の記録のきっかけとなる話題提案機能
-- 🔔 ユーザーに適した時間帯で通知するリマインダー機能
-- 🔥 継続日数を可視化するストリーク機能
-- 🚀 初めて利用するユーザーにも分かりやすいウォークスルー画面
-
-#### 💡 自身が工夫した点
-
-- **ストリーク機能**では、継続日数を視覚的に伝えるアニメーションを実装し、日記を続けるモチベーションにつながるUIを意識しました。
-- **ウォークスルー画面**では、初めて利用するユーザーにもアプリの魅力や使い方が伝わるよう、画面構成や説明の分かりやすさを意識して実装しました。
-
-#### 🌱 学んだこと
-
-stepinは、私にとって初めてのモバイルアプリ開発であり、初めてのチーム開発でもありました。
-
-React Native・TypeScriptを用いた開発の基礎だけでなく、Git・GitHubを活用したチーム開発の進め方や役割分担など、実践的な開発手法を学びました。
-
-また、「ユーザーが継続して使いたくなるアプリとは何か」という視点でUI・UXを考える経験を通して、技術だけでなくユーザー目線で設計・実装することの重要性を学びました。
-
-#### 🔗 Repository
+- **Project Portfolio**  
+  （`project-portfolio/projects/stepin.md` へのリンク）
 
 > ※本プロジェクトはサークルでのチーム開発として実施したため、リポジトリはサークルのGitHubアカウントで管理されています。
 
-**Repository**
-
-https://github.com/arukuArupaka/unique_diary
-
 #### 📷 Screenshots
 
-<img width="222" height="456" alt="画像1" src="https://github.com/user-attachments/assets/2b3dc0c5-a5f7-4c82-8cc4-b5e466c88d07" />
-<img width="222" height="456" alt="画像2" src="https://github.com/user-attachments/assets/8dffb2cd-7e1e-4959-b88a-733b9057dffd" />
-<img width="224" height="452" alt="画像4" src="https://github.com/user-attachments/assets/60e854d9-1209-416d-a53e-d51e891960d1" />
-
-
-
-
-
+<img width="222" alt="ホーム画面" src="https://github.com/user-attachments/assets/2b3dc0c5-a5f7-4c82-8cc4-b5e466c88d07" />
+<img width="222" alt="ストリーク画面" src="https://github.com/user-attachments/assets/8dffb2cd-7e1e-4959-b88a-733b9057dffd" />
+<img width="224" alt="ウォークスルー画面" src="https://github.com/user-attachments/assets/60e854d9-1209-416d-a53e-d51e891960d1" />
 
 
 ---
