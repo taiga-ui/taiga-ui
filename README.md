@@ -142,11 +142,19 @@ React Native・TypeScriptを用いた開発の基礎だけでなく、Git・GitH
 
 **Repository**
 
-（GitHubリンクを掲載予定）
+https://github.com/arukuArupaka/unique_diary
 
 #### 📷 Screenshots
 
-（スクリーンショットを掲載予定）
+<img width="222" height="456" alt="画像1" src="https://github.com/user-attachments/assets/2b3dc0c5-a5f7-4c82-8cc4-b5e466c88d07" />
+<img width="222" height="456" alt="画像2" src="https://github.com/user-attachments/assets/8dffb2cd-7e1e-4959-b88a-733b9057dffd" />
+<img width="224" height="452" alt="画像4" src="https://github.com/user-attachments/assets/60e854d9-1209-416d-a53e-d51e891960d1" />
+
+
+
+
+
+
 
 ---
 
