@@ -122,6 +122,36 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 <img width="224" alt="ウォークスルー画面" src="https://github.com/user-attachments/assets/60e854d9-1209-416d-a53e-d51e891960d1" />
 
 
+
+### 🦒 しめきりん
+
+> **大学生が課題の提出状況を共有し、ゲーム感覚で楽しく課題管理ができるアプリ** をコンセプトに、4人で開発したモバイルアプリです。
+
+| 項目 | 内容 |
+|------|------|
+| **開発形態** | チーム開発（4名） |
+| **開発期間** | 約6か月 |
+| **使用技術** | React Native / TypeScript / Firebase / Git / GitHub |
+| **担当** | 課題詳細画面・実績画面・統計情報画面・通知画面・プロフィール入力画面 |
+
+#### 💡 このプロジェクトで学んだこと
+
+- 要件定義から設計・実装までの開発プロセス
+- React Native・Firebaseを用いたアプリ開発
+- 拡張性を意識したコンポーネント設計
+- チームでの役割分担と協力した開発
+
+#### 🔗 Links
+
+- **Project Portfolio**  
+  （project-portfolio/projects/shimekirin.md へのリンク）
+
+> ※本プロジェクトはチームのPrivate Repositoryで管理されているため、ソースコードは公開していません。
+
+#### 📷 Screenshots
+(スクリーンショット掲載予定）
+
+
 ---
 
 ## 📚 Learning
