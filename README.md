@@ -155,58 +155,35 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 ### 📰 Jijii News
 
-#### 📝 概要
+> **「ニュースを見なきゃと思っているのに、結局見ない」学生が最初の一歩を踏み出せること**をコンセプトに、AI Hackathon Origin 2026で4人で開発したニュースアプリです。
 
-**「ニュースを見なきゃと思っているのに、結局見ない学生」の最初の一歩を後押しすることを目的に開発したニュースアプリ**です。
+| 項目 | 内容 |
+|------|------|
+| **開発形態** | チーム開発（4名・ハッカソン） |
+| **開発期間** | 約2日 |
+| **使用技術** | Next.js / TypeScript / Web Push Notifications / Vercel / Git / GitHub |
+| **担当** | 通知設定機能・通知カテゴリ選択UI・通知設定画面の実装・UI改善 |
 
-通知やAIチャット、おじさん構文を活用した通知文などを取り入れ、ニュースを「読む」前に「開く」きっかけを作るUXを目指しました。
+#### 💡 このプロジェクトで学んだこと
 
-#### 👥 開発形態
-
-- チーム開発（4名）
-- 開発期間：約1週間（AI Hackathon Origin 2026）
-
-#### 👨‍💻 担当
-
-主に以下の機能の設計・実装を担当しました。
-
-- 🔔 通知カテゴリー設定機能
-- ⚙️ 通知カテゴリーの状態管理・切り替え処理
-- ✅ 最低1カテゴリーを維持するバリデーション
-- 📱 設定画面を中心としたUI改善
-- 🎨 ブックマーク表示や画面レイアウトなどのUI調整
-
-#### 🛠️ 使用技術
-
-- Next.js
-- TypeScript
-- Web Push Notifications
-- Vercel
-- Git / GitHub
-
-#### 💡 学んだこと
-
-ハッカソンという限られた期間の中で、既存画面への機能追加やUI改善を担当しました。
-
-Reactの状態管理やProps設計だけでなく、ユーザーが迷わず操作できるUIや、誤操作を防ぐバリデーション設計の重要性を学びました。
+- 短期間でのチーム開発・ハッカソン開発を経験
+- Next.js・TypeScriptを用いたWebアプリ開発
+- 状態管理を含めた通知設定機能の設計・実装
+- 限られた期間で優先順位を付けながら機能を実装する重要性
 
 #### 🔗 Links
 
-**Repository**
+- **Repository**
+  
+  https://github.com/Tanaka2006/jijii_news
 
-https://github.com/Tanaka2006/jijii_news
+- **Project Portfolio**  
+ 
+  （掲載予定）
 
-**Project Portfolio**
-
-projects/jijii_news.md
-
-**Demo**
-
-https://ai-hackathon-lemon.vercel.app/
-
-#### 📷 Screenshots
-
-（3〜4枚）
+- **Demo**
+  
+  https://ai-hackathon-lemon.vercel.app/　
 
 
 
