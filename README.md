@@ -111,7 +111,7 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
   https://github.com/arukuArupaka/unique_diary
 
 - **Project Portfolio**  
-  （`project-portfolio/projects/stepin.md` へのリンク）
+  https://github.com/taiga-ui/project-portfolio/blob/main/projects/stepin.md
 
 > ※本プロジェクトはサークルでのチーム開発として実施したため、リポジトリはサークルのGitHubアカウントで管理されています。
 
