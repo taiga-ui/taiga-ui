@@ -144,7 +144,7 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 #### 🔗 Links
 
 - **Project Portfolio**  
-  （project-portfolio/projects/shimekirin.md へのリンク）
+  https://github.com/taiga-ui/project-portfolio/blob/main/projects/shimekirin.md
 
 > ※本プロジェクトはチームのPrivate Repositoryで管理されているため、ソースコードは公開していません。
 
