@@ -183,7 +183,9 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 - **Demo**
   
-  https://ai-hackathon-lemon.vercel.app/　
+  https://ai-hackathon-lemon.vercel.app/
+
+  > ※本プロジェクトはハッカソンでのチーム開発として実施したため、リポジトリはチームメンバーのGitHubアカウントで管理されています。
 
 
 
