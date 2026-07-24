@@ -213,7 +213,7 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 #### 🔗 Links
 
 - **GitHub Repository**  
-  （GitHubリンク）
+  https://github.com/taiga-ui/Task-Manager
 
 #### 📷 Screenshots
 （スクリーンショット掲載予定）
