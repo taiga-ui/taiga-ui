@@ -179,7 +179,7 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 - **Project Portfolio**  
  
-  （掲載予定）
+  https://github.com/taiga-ui/project-portfolio/blob/main/projects/jijii_news.md
 
 - **Demo**
   
