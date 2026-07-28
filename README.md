@@ -106,15 +106,12 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 #### 🔗 Links
 
-- **Repository**  
-  https://github.com/arukuArupaka/unique_diary
-
-- **Project Portfolio**  
-  https://github.com/taiga-ui/project-portfolio/blob/main/projects/stepin.md
+- 📦 **Repository**： [GitHubはこちら](https://github.com/arukuArupaka/unique_diary)
+- 📄 **Project Portfolio**： [詳細はこちら](https://github.com/taiga-ui/project-portfolio/blob/main/projects/stepin.md)
 
 > ※本プロジェクトはサークルでのチーム開発として実施したため、リポジトリはサークルのGitHubアカウントで管理されています。
 
-
+---
 
 ### 🦒 しめきりん
 
@@ -135,12 +132,11 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 #### 🔗 Links
 
-- **Project Portfolio**  
-  https://github.com/taiga-ui/project-portfolio/blob/main/projects/shimekirin.md
+- 📄 **Project Portfolio**： [詳細はこちら](https://github.com/taiga-ui/project-portfolio/blob/main/projects/shimekirin.md)
 
 > ※本プロジェクトはチームのPrivate Repositoryで管理されているため、ソースコードは公開していません。
 
-
+---
 
 ### 📰 Jijii News
 
@@ -153,7 +149,7 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 | **使用技術** | Next.js / TypeScript / Web Push Notifications / Vercel / Git / GitHub |
 | **担当** | 通知設定機能・通知カテゴリ選択UI・通知設定画面の実装・UI改善 |
 
-#### 💡 工夫したこと
+#### ✨ 工夫したこと
 
 - ニュースの表示設定とは独立して、通知を受け取るカテゴリを個別に選択できる通知設定機能を設計・実装
 - 最低1カテゴリは通知対象として残す制御を設け、誤操作を防ぐUIを実装
@@ -162,21 +158,13 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 #### 🔗 Links
 
-- **Repository**
-  
-  https://github.com/Tanaka2006/jijii_news
+- 📦 **Repository**： [GitHubはこちら](https://github.com/Tanaka2006/jijii_news)
+- 📄 **Project Portfolio**： [詳細はこちら](https://github.com/taiga-ui/project-portfolio/blob/main/projects/jijii_news.md)
+- 🌐 **Demo**： [アプリを試す](https://ai-hackathon-lemon.vercel.app/)
 
-- **Project Portfolio**  
- 
-  https://github.com/taiga-ui/project-portfolio/blob/main/projects/jijii_news.md
+> ※本プロジェクトはハッカソンでのチーム開発として実施したため、リポジトリはチームメンバーのGitHubアカウントで管理されています。
 
-- **Demo**
-  
-  https://ai-hackathon-lemon.vercel.app/
-
- > ※本プロジェクトはハッカソンでのチーム開発として実施したため、リポジトリはチームメンバーのGitHubアカウントで管理されています。
-
-
+---
 
 ### ✅ Task Manager
 
@@ -191,7 +179,7 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 | **使用技術** | React Native / TypeScript / Expo / AsyncStorage / Git / GitHub |
 | **担当** | 要件定義・UI/UX設計・アプリ設計・フロントエンド実装 |
 
-#### 💡 工夫したこと
+#### ✨ 工夫したこと
 
 - 一般的なToDo管理ではなく、「管理する」よりも「実行し、積み上げを実感する」体験を重視したアプリとして設計
 - タスク完了時に作業時間やコメントを記録し、積み上げログとして可視化することで、継続のモチベーションにつながる仕組みを実装
@@ -200,8 +188,7 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 
 #### 🔗 Links
 
-- **GitHub Repository**  
-  https://github.com/taiga-ui/Task-Manager
+- 📦 **Repository**： [GitHubはこちら](https://github.com/taiga-ui/Task-Manager)
 
 ---
 
