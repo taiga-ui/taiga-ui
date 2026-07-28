@@ -98,13 +98,6 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 | **使用技術** | React Native / TypeScript / Expo / Git / GitHub |
 | **担当** | ストリーク機能・設定画面・ウォークスルー画面・リマインダー機能（一部） |
 
-#### 💡 このプロジェクトで学んだこと
-
-- 初めてのモバイルアプリ開発・チーム開発を経験
-- React Native・TypeScriptを用いた実践的な開発
-- Git・GitHubを用いたチーム開発フロー
-- ユーザー目線でUI・UXを考える重要性
-
 #### 🔗 Links
 
 - **Repository**  
@@ -114,12 +107,6 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
   https://github.com/taiga-ui/project-portfolio/blob/main/projects/stepin.md
 
 > ※本プロジェクトはサークルでのチーム開発として実施したため、リポジトリはサークルのGitHubアカウントで管理されています。
-
-#### 📷 Screenshots
-
-<img width="222" alt="ホーム画面" src="https://github.com/user-attachments/assets/2b3dc0c5-a5f7-4c82-8cc4-b5e466c88d07" />
-<img width="222" alt="ストリーク画面" src="https://github.com/user-attachments/assets/8dffb2cd-7e1e-4959-b88a-733b9057dffd" />
-<img width="224" alt="ウォークスルー画面" src="https://github.com/user-attachments/assets/60e854d9-1209-416d-a53e-d51e891960d1" />
 
 
 
@@ -134,22 +121,12 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 | **使用技術** | React Native / TypeScript / Firebase / Git / GitHub |
 | **担当** | 課題詳細画面・実績画面・統計情報画面・通知画面・プロフィール入力画面 |
 
-#### 💡 このプロジェクトで学んだこと
-
-- 要件定義から設計・実装までの開発プロセス
-- React Native・Firebaseを用いたアプリ開発
-- 拡張性を意識したコンポーネント設計
-- チームでの役割分担と協力した開発
-
 #### 🔗 Links
 
 - **Project Portfolio**  
   https://github.com/taiga-ui/project-portfolio/blob/main/projects/shimekirin.md
 
 > ※本プロジェクトはチームのPrivate Repositoryで管理されているため、ソースコードは公開していません。
-
-#### 📷 Screenshots
-(スクリーンショット掲載予定）
 
 
 
@@ -163,13 +140,6 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 | **開発期間** | 約2日 |
 | **使用技術** | Next.js / TypeScript / Web Push Notifications / Vercel / Git / GitHub |
 | **担当** | 通知設定機能・通知カテゴリ選択UI・通知設定画面の実装・UI改善 |
-
-#### 💡 このプロジェクトで学んだこと
-
-- 短期間でのチーム開発・ハッカソン開発を経験
-- Next.js・TypeScriptを用いたWebアプリ開発
-- 状態管理を含めた通知設定機能の設計・実装
-- 限られた期間で優先順位を付けながら機能を実装する重要性
 
 #### 🔗 Links
 
@@ -202,21 +172,10 @@ React Native・TypeScriptを中心にモバイルアプリ開発を学んでい�
 | **使用技術** | React Native / TypeScript / Expo / AsyncStorage / Git / GitHub |
 | **担当** | 要件定義・UI/UX設計・アプリ設計・フロントエンド実装 |
 
-#### 💡 このプロジェクトで学んだこと
-
-- 個人開発における要件定義から実装までの流れ
-- React Nativeを用いたモバイルアプリ開発
-- 保守性・拡張性を意識したコンポーネント設計
-- ローカルストレージを利用したデータ管理
-- MVP（最小実用製品）として機能を取捨選択する考え方
-
 #### 🔗 Links
 
 - **GitHub Repository**  
   https://github.com/taiga-ui/Task-Manager
-
-#### 📷 Screenshots
-（スクリーンショット掲載予定）
 
 ---
 
