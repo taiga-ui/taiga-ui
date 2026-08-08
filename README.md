@@ -115,7 +115,7 @@
 |------|------|
 | **開発形態** | チーム開発（4名） |
 | **開発期間** | 約6か月 |
-| **使用技術** | React Native / TypeScript / Firebase / Git / GitHub |
+| **使用技術** | React Native / TypeScript / Expo / Git / GitHub |
 | **担当** | 課題詳細画面・実績画面・統計情報画面・通知画面・プロフィール入力画面 |
 
 #### ✨ 工夫したこと
@@ -167,7 +167,7 @@
 |------|------|
 | **開発形態** | 個人開発 |
 | **開発期間** | 約1か月 |
-| **使用技術** | React Native / TypeScript / Expo / AsyncStorage / Git / GitHub |
+| **使用技術** | React Native / TypeScript / Expo / Git / GitHub |
 | **担当** | 要件定義・UI/UX設計・アプリ設計・フロントエンド実装 |
 
 #### ✨ 工夫したこと
